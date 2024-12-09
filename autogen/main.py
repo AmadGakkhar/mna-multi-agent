@@ -8,10 +8,14 @@ from prompts import (
     strategy_prompt,
     dummy_client_prompt,
     strategy_prompt_1,
+    strategy_prompt_3,
+    strategy_prompt_2,
 )
 
 
-def save_to_markdown(content: str, filename: str = "output.md") -> None:
+def save_to_markdown(
+    content: str,
+) -> None:
     """
     Save the given content to a markdown file.
 
@@ -19,6 +23,7 @@ def save_to_markdown(content: str, filename: str = "output.md") -> None:
     content (str): The content to be saved.
     filename (str): The name of the markdown file. Default is 'output.md'.
     """
+    filename = "output.md"
     with open(filename, "w") as file:
         file.write("# Report\n\n")
         file.write(content)
@@ -27,7 +32,7 @@ def save_to_markdown(content: str, filename: str = "output.md") -> None:
 
 pm = ConversableAgent(
     "pm",
-    system_message=strategy_prompt_1,
+    system_message=strategy_prompt_2,
     llm_config=OAI_CONFIG,
     code_execution_config=False,
     function_map=None,
