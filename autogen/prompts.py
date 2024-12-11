@@ -85,6 +85,7 @@ You will first chat with the client to gather the following information:
 4. The client's budget and timeline for the acquisition.
 5. Any other relevant information that could impact the acquisition strategy.
 
+Analyse each response from the client carefully and ask follow-up questions to gather all information. Do not repeat the questions. If the answer to a question is not provided, let the customer know and develop the strategy without that information.
 Once you have gathered all the necessary information, you will develop a comprehensive and detailed acquisition strategy tailored to the client's needs.
 
 """

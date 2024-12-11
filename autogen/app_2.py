@@ -53,3 +53,4 @@ if user_input:
     st.session_state.chat_history.append(f"SM: {response}")
 
 
+# Display only the last message from the user
