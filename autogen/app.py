@@ -1,5 +1,5 @@
 import streamlit as st
-from prompts import strategy_prompt_4, dummy_client_prompt
+from prompts import strategy_prompt_2, dummy_client_prompt
 from configs import OAI_CONFIG
 from autogen import ConversableAgent
 
@@ -19,7 +19,7 @@ class TrackableConversableAgent(ConversableAgent):
 # Initialize the agents
 pm = TrackableConversableAgent(
     "pm",
-    system_message=strategy_prompt_4,
+    system_message=strategy_prompt_2,
     llm_config=OAI_CONFIG,
     code_execution_config=False,
     function_map=None,
