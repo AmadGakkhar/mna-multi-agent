@@ -2,11 +2,12 @@ import autogen
 from autogen import ConversableAgent, register_function
 from autogen.agentchat.contrib.web_surfer import WebSurferAgent  # noqa: E402import os
 from configs import OAI_CONFIG, SUMMARISER_CONFIG, GEMINI_CONFIG
-from prompts import *
+from prompts import researcher_prompt
 import os
 
-searcher = ConversableAgent(
-    "Searcher",
+researcher = ConversableAgent(
+    "researcher",
+    system_message=researcher_prompt,
     llm_config=OAI_CONFIG,
     code_execution_config=False,
     human_input_mode="NEVER",  # Never ask for human input.
@@ -24,4 +25,4 @@ user_proxy = ConversableAgent(
 )
 
 
-result = user_proxy.initiate_chat(web_surfer, message="Search articles about AI")
+result = researcher.initiate_chat(web_surfer, message="let's begin")
