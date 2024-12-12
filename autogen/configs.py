@@ -16,6 +16,18 @@ OAI_CONFIG = {
     "cache_seed": None,
 }
 
+SUMMARISER_CONFIG = {
+    "config_list": [
+        {
+            "model": os.environ["oai_model"],
+            "api_key": os.environ["openai_api_key"],
+        }
+    ],
+    "timeout": 600,
+    "temperature": 0,
+    "cache_seed": None,
+}
+
 GEMINI_CONFIG = {
     "config_list": [
         {

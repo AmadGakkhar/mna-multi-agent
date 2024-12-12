@@ -21,7 +21,6 @@ pm = ConversableAgent(
     system_message=strategy_prompt_2,
     llm_config=LLM_CONFIG,
     code_execution_config=False,
-    function_map=None,
     human_input_mode="NEVER",  # Never ask for human input.
 )
 
