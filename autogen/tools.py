@@ -4,6 +4,7 @@ import financetoolkit as ftk
 import numpy as np
 from typing_extensions import Annotated
 import pandas as pd
+from configs import COMPANIES_JSON_PATH
 
 
 def save_to_markdown(
@@ -54,9 +55,7 @@ def save_json_to_disk(
     print(f"JSON data written to {file_path}")
 
 
-def read_json_from_disk(
-    file_path: Annotated[str, "Path to JSON file"]
-) -> Annotated[dict, "Content of JSON file"]:
+def read_json_from_disk(file_path: Annotated[str, "Path to JSON file"]) -> dict:
     """
     Read the content from a JSON file.
 
@@ -110,7 +109,7 @@ def get_companies(
     country: Annotated[str, "Country"] = "United States",
     market_cap: Annotated[str, "Market Cap"] = "Small Cap",
     path: Annotated[str, "Path to save JSON file"] = "companies.json",
-) -> None:
+) -> str:
     """
     Filters and saves a list of companies based on specified criteria.
     Args:
@@ -124,7 +123,7 @@ def get_companies(
         market_cap (str): The market capitalization of the companies. Default is "Small Cap".
         path (str): The file path to save the filtered companies in JSON format. Default is "companies.json".
     Returns:
-        None
+        str: A message indicating the completion of the operation.
     """
 
     equities = fd.Equities()
@@ -151,8 +150,44 @@ def get_companies(
         json.dump(
             json.loads(filtered_companies.to_json(orient="records")), file, indent=4
         )
+    global nested_chat_finished
+    nested_chat_finished = True
+
+    return ("Done", nested_chat_finished)
+
+
+def get_number_of_companies(path: Annotated[str, "Path to JSON file"]) -> int:
+    """
+    Get the number of companies in the JSON file.
+
+    Parameters:
+    path (str): The path to the JSON file.
+
+    Returns:
+    int: The number of companies in the JSON file.
+    """
+    companies = read_json_from_disk(path)
+    return len(companies)
+
+
+def get_names_and_summaries(path: Annotated[str, "Path to JSON file"]) -> str:
+    """
+    Get the names and summaries of companies from the JSON file.
+
+    Parameters:
+    path (str): The path to the JSON file.
+
+    Returns:
+    str: A JSON string containing the names and summaries of companies.
+    """
+    companies = read_json_from_disk(path)
+    df = pd.DataFrame(companies, columns=["name", "summary"])
+    df = df.reset_index(drop=True)
+    global nested_chat_finished
+    nested_chat_finished = True
+    return df.to_json(orient="records", indent=4)
 
 
 if __name__ == "__main__":
-    companies = get_companies()
+    companies = get_names_and_summaries(COMPANIES_JSON_PATH)
     print(companies)
