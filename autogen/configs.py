@@ -1,5 +1,6 @@
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 load_dotenv()
 
@@ -40,3 +41,6 @@ GEMINI_CONFIG = {
     "temperature": 0.1,
     "cache_seed": None,
 }
+
+STRATEGY_REPORT_PATH = Path("output.md")
+COMPANIES_JSON_PATH = Path("outputs/companies.json")

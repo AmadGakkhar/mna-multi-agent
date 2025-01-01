@@ -6,3 +6,5 @@ markdownify
 pdfminer.six
 python-pptx
 pathvalidate
+financedatabase
+financetoolkit
