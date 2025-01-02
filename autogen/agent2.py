@@ -11,6 +11,7 @@ from prompts import (
     strategy_prompt_3,
     strategy_prompt_2,
     researcher_prompt_fd,
+    critic_prompt,
 )
 from tools import (
     save_to_markdown,
@@ -38,6 +39,13 @@ researcher = ConversableAgent(
     human_input_mode="NEVER",
 )
 
+critic = ConversableAgent(
+    "critic",
+    llm_config=LLM_CONFIG,
+    system_message=critic_prompt,
+    human_input_mode="NEVER",
+)
+
 
 executor = ConversableAgent(
     "executor",
@@ -45,7 +53,7 @@ executor = ConversableAgent(
     human_input_mode="NEVER",
     is_termination_msg=lambda msg: msg.get("content") is not None
     and "TERMINATE" in msg["content"],
-    default_auto_reply="Which tool you want me to use",
+    default_auto_reply="",
 )
 
 register_function(
@@ -64,14 +72,31 @@ register_function(
 )
 register_function(
     get_companies,
-    caller=researcher,
+    caller=researcher,  # Add multiple callers here
     executor=executor,
     name="get_companies",
     description="Retrieve companies based on specified filters.",
 )
 register_function(
     get_names_and_summaries,
-    caller=researcher,
+    caller=researcher,  # Add multiple callers here
+    executor=executor,
+    name="get_names_and_summaries",
+    description="Get the names and summaries of companies from the JSON file.",
+)
+
+## Critic Functions
+
+register_function(
+    read_from_markdown,
+    caller=critic,
+    executor=executor,
+    name="read_from_markdown",
+    description="Read the content from a markdown file.",
+)
+register_function(
+    get_names_and_summaries,
+    caller=critic,  # Add multiple callers here
     executor=executor,
     name="get_names_and_summaries",
     description="Get the names and summaries of companies from the JSON file.",
@@ -86,7 +111,12 @@ researcher.register_nested_chats(
             "recipient": researcher,
             "message": "Which tool you want to call?",
             # "max_turns": 5,
-        }
+        },
+        {
+            "sender": executor,
+            "recipient": critic,
+            "message": "Which tool you want to call?",
+        },
     ],
 )
 
