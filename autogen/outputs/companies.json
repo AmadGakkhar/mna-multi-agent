@@ -1,5 +1,6 @@
 [
     {
+        "symbol": "AMSWA",
         "name": "American Software, Inc.",
         "summary": "American Software, Inc. develops, markets, and supports a range of computer business application software products and services in the United States and internationally. It operates in three segments: Supply Chain Management (SCM), Information Technology Consulting (IT Consulting), and Other. The SCM segment offers supply chain optimization and retail planning solutions, including sales and operations planning, demand optimization, inventory optimization, manufacturing planning and scheduling, supply optimization, retail allocation and merchandise planning, and transportation optimization to streamline and optimize the forecasting, inventory, production, supply, allocation, distribution, and management of products between trading partners. It also provides cloud solutions for supply chain and product lifecycle management, quality control, vendor compliance, and enterprise resource planning for retailers and manufacturers; and advanced analytics and business intelligence solutions for the supply chain market. The IT Consulting segment offers IT staffing and consulting services, such as professional, product management, and project management outsourcing services; staff augmentation services in the areas of cloud, collaboration, network, and security; and social media and analytic marketing services. It also provides software enhancement, documentation, updates, customer education, consulting, systems integration services, maintenance, and support services. The Other segment offers purchasing and materials management, customer order processing, financial, e-commerce, human resource, and manufacturing solutions. The company markets its products through direct and indirect sales channels to the retail, apparel and footwear, consumer packaged goods, chemicals, oil and gas, life sciences, consumer electronics, industrial products, and other manufacturing industries. American Software, Inc. was founded in 1970 and is headquartered in Atlanta, Georgia.",
         "currency": "USD",
@@ -21,6 +22,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "BAND",
         "name": "Bandwidth Inc.",
         "summary": "Bandwidth Inc. operates as a cloud-based software-powered communications platform-as-a-service (CPaaS) provider in the United States. The company operates in two segments, CPaaS and Other. Its platform enables enterprises to create, scale, and operate voice or messaging communications services across various mobile applications or connected devices. The company also provides SIP trunking, data resale, and hosted voice over Internet protocol services. It serves large enterprises, communications service providers, conferencing providers, contact centers, small and medium-sized businesses, emerging technology companies, and many other businesses. Bandwidth Inc. was founded in 2000 and is headquartered in Raleigh, North Carolina.",
         "currency": "USD",
@@ -42,6 +44,7 @@
         "shareclass_figi": "BBG001TFDMP2"
     },
     {
+        "symbol": "BIGC",
         "name": "BigCommerce Holdings, Inc.",
         "summary": "BigCommerce Holdings, Inc. operates a software-as-a-service platform for small businesses, mid-markets, and large enterprises in the United States. The company's platform provides various services for launching and scaling ecommerce operation, including store design, catalog management, hosting, checkout, order management, reporting, and pre-integrations. As of December 31, 2020, it served approximately 60,000 online stores across industries in approximately 155 countries. BigCommerce Holdings, Inc. was founded in 2009 and is headquartered in Austin, Texas.",
         "currency": "USD",
@@ -63,6 +66,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "BMBL",
         "name": "Bumble Inc.",
         "summary": "Bumble Inc. provides online dating and social networking platforms in North America, Europe, internationally. It owns and operates websites and applications that offers subscription and credit-based dating products. The company operates two apps, Bumble and Badoo with approximately 40 million users on monthly basis. Bumble Inc. was founded in 2014 in and is headquartered in Austin, Texas.",
         "currency": "USD",
@@ -84,6 +88,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "BNFT",
         "name": "Benefitfocus, Inc.",
         "summary": "Benefitfocus, Inc. provides cloud-based benefits management technology solutions for employers and health plans in the United States. Its products for employers comprise Benefitplace, a cloud-based benefits management portal that streamlines online enrollment, employee communication, and benefit administration; Health Insights, a data analytics solution; ACA Management and Reporting, a solution for employers to manage ACA compliance; Billing & Payments, an application that synchronizes enrollment and billing information to streamline the monthly billing process, automate adjustments, and enhance accuracy of payments; and COBRA Administration, a solution that simplifies management of Consolidated Omnibus Budget Reconciliation Act, benefits. The company's products for health plans include Enrollment that provides platform for carriers to automate enrollment across all segments of their commercial group business; Billing & Payments, an electronic invoice presentment and payment solution; Exchange, a solution that bridges the integration gap between health plan and employer systems; and Quoting that gives health plans and brokers tools to organize and proactively manage accounts, track leads, generate quotes, and create proposals for multiple products. Its products for brokers consist of Health Insights that support strategic decisions for their clients with on-demand health plan analytics; Benefit Catalog, which allows brokers to offer products to their clients; and benefit catalog consultative support for brokers through benefit advisors. The company also provides implementation services to its customers in order to help ensure seamless deployment and effective utilization of its solutions; and employers with expanded support services. The company was incorporated in 2000 and is headquartered in Charleston, South Carolina.",
         "currency": "USD",
@@ -105,6 +110,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "BTBT",
         "name": "Bit Digital, Inc.",
         "summary": "Bit Digital, Inc. engages in the bitcoin mining business. The company was formerly known as Golden Bull Limited and changed its name to Bit Digital, Inc. in September 2020. The company is headquartered in New York, New York.",
         "currency": "USD",
@@ -126,6 +132,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "CRNC",
         "name": "Cerence Inc.",
         "summary": "Cerence Inc. provides AI-powered assistants and innovations for connected and autonomous vehicles It offers edge software components; cloud-connected components; toolkits; applications; and virtual assistant coexistence and professional services. The company also provides conversational artificial intelligence, including voice recognition, natural language understanding, and artificial intelligence services. Cerence Inc. is headquartered in Burlington, Massachusetts.",
         "currency": "USD",
@@ -147,6 +154,7 @@
         "shareclass_figi": "BBG00MMDJG93"
     },
     {
+        "symbol": "CSGS",
         "name": "CSG Systems International, Inc.",
         "summary": "CSG Systems International, Inc. provides revenue management, customer experience, and payment solutions primarily to the communications industry in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers Advanced Convergent Platform, a private cloud-based platform; related customer communications management solutions, including field force automation, analytics, electronic bill presentment, ACH, etc. for processing voice, SMS/text, print, and e-mail messages; and cloud-based integrated suite of solutions for range of industries. The company also provides managed services; and professional services to implement, configure, and maintain its solutions, as well as licenses various solutions, such as mediation, partner management, rating, and charging. It serves financial services, healthcare, media and entertainment companies, and government markets. The company was incorporated in 1994 and is headquartered in Greenwood Village, Colorado.",
         "currency": "USD",
@@ -168,6 +176,7 @@
         "shareclass_figi": "BBG001S8QQ76"
     },
     {
+        "symbol": "DBD",
         "name": "Diebold Nixdorf, Incorporated",
         "summary": "Diebold Nixdorf, Incorporated provides connected commerce solutions to financial institutions and retailers in Western Europe, Eastern Europe, Asia, the Middle East, Africa, the United States, Canada, Mexico, and Latin America. The company operates through Eurasia Banking, Americas Banking, and Retail segments. It offers cash recyclers and dispensers, intelligent deposit terminals, teller automation tools, and kiosk technologies, as well as physical security solutions; and front-end applications for consumer connection points and back-end platforms that manage channel transactions, operations and integration and facilitate omnichannel transactions, endpoint monitoring, remote asset management, customer marketing, merchandise management, and analytics. It also provides banking product-related services comprising proactive monitoring and rapid resolution of incidents through remote service capabilities or an on-site visit; first and second line maintenance, and preventive maintenance and on-demand services; managed and outsourcing services, such as business processes, solution management, upgrades and transaction processing; and cash management services. In addition, the company offers DN Vynamic software suite; mobile point of sale and self-checkout terminals; printers, scales, and mobile scanners; and banknote and coin processing systems. Additionally, it provides retail customer's product-related services, such as on-demand and professional services; maintenance and availability services; implementation services; managed mobility services; monitoring and advanced analytics; and store life-cycle management services. Diebold Nixdorf, Incorporated has strategic relationship with Accenture. The company was formerly known as Diebold, Incorporated and changed its name to Diebold Nixdorf, Incorporated in December 2016. Diebold Nixdorf, Incorporated was founded in 1859 and is headquartered in North Canton, Ohio.",
         "currency": "USD",
@@ -189,6 +198,7 @@
         "shareclass_figi": "BBG001S5QDJ8"
     },
     {
+        "symbol": "DSP",
         "name": "Viant Technology Inc.",
         "summary": "Viant Technology Inc. operates as an advertising software company. It provides Adelphic, an enterprise software platform that enables marketers and their advertising agencies to plan, buy, and measure advertising across channels. The company also offers cloud-based self-service portal that provides customers with transparency and control over their advertising campaigns and underlying data infrastructure; omnichannel demand side platform for ad buyers to manage omnichannel campaigns and access metrics from each channel to inform decisions in other channels; and Data lake, a software and self-service enables customers with differentiated insights, including foot-traffic data reports, multi-touch attribution, and ROAS analytics. In addition, it provides Identity Resolution to reduce the need for cookies by enabling matching of people-based identifiers and allow marketers to reach targeted consumers in a privacy-conscious manner; and onboarding data integrations provides marketers with high match rates to audience insights for segmentation and targeting. The company sells its platform through a direct sales team focused on business development in various markets. It serves purchasers of programmatic advertising inventory; and large, independent, and mid-market advertising agencies. The company was founded in 1999 and is headquartered in Irvine, California.",
         "currency": "USD",
@@ -210,6 +220,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "EB",
         "name": "Eventbrite, Inc.",
         "summary": "Eventbrite, Inc. operates a self-service ticketing and experience technology platform that serves event creators in the United States and internationally. Its platform integrates components needed to plan, promote, and produce live events that allow creators to reduce friction and costs, increase reach, and drive ticket sales. The company was formerly known as Mollyguard Corporation and changed its name to Eventbrite, Inc. in 2009. Eventbrite, Inc. was incorporated in 2008 and is headquartered in San Francisco, California.",
         "currency": "USD",
@@ -231,6 +242,7 @@
         "shareclass_figi": "BBG001V1CQC6"
     },
     {
+        "symbol": "ECOM",
         "name": "ChannelAdvisor Corporation",
         "summary": "ChannelAdvisor Corporation, together with its subsidiaries, provides software-as-a-service (SaaS) solutions in the United States and internationally. The company's SaaS is a cloud platform that helps brands and retailers to improve their online performance by expanding sales channels, connecting with consumers, optimizing their operations for peak performance, and providing actionable analytics to improve competitiveness. Its suite of solutions includes various platform modules, including Marketplaces module that connects customers to third-party marketplaces; First-party Dropship module, which allows brands and distributors to manage purchase orders, shipment notifications, stock quantities, and invoices for multiple retail dropship partners; Digital Marketing module that connects customers to compare shopping websites that allow customers to advertise products on search engines; Shoppable Media module that allows brands to provide web visitors or digital campaign audiences with path to purchase using dynamic links to the product pages or carts of retailers with the products in-stock; and Brand Analytics module, which helps brands for e-commerce channels with actionable insights into how products are performing across thousands of retailer websites and marketplaces. Its customers include online businesses of brands and retailers, as well as advertising agencies that use its solutions on behalf of their clients. ChannelAdvisor Corporation was incorporated in 2001 and is headquartered in Morrisville, North Carolina.",
         "currency": "USD",
@@ -252,6 +264,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "EGHT",
         "name": "8x8, Inc.",
         "summary": "8x8, Inc. provides voice, video, chat, contact center, and enterprise-class application programmable interface (API) Software-as-a-Service solutions for small and mid-size businesses, mid-market and larger enterprises, government agencies, and other organizations worldwide. It offers unified communications, team collaboration, video conferencing, contact center, data and analytics, communication APIs, and other services. The company provides 8x8 Virtual Office, a self-contained and end-to-end solution that delivers high quality voice and unified communications-as-a-service; 8x8 Contact Center, a multi-channel cloud-based contact center solution; and 8x8 Meetings, a cloud-based video conferencing and collaboration solution that enables secure and continuous collaboration with borderless high definition video and audio communications from mobile and desktop devices. It also offers 8x8 Team Messaging, an integrated open team messaging platform, which facilitate modern modes of communication with support for direct messages, public and private team messaging rooms, short messaging service, presence, emojis, and \u221a\u00c7\u00ac\u00eb@' mentions; 8x8 API, a set of global communications Platform-as-a-Service; and 8x8 Callstats Service, an analytics offering designed for real-time analytical responsiveness at scale. The company integrates its services with third-party applications and platforms, including enterprise resource planning, customer relations management, human capital management, and other proprietary application suites. It markets its services to end users through search engine marketing and optimization, third-party lead generation sources, industry conferences, trade shows, Webinars, and digital advertising channels, as well as direct sales organization. 8x8, Inc. was founded in 1987 and is headquartered in Campbell, California.",
         "currency": "USD",
@@ -273,6 +286,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "EPAY",
         "name": "Bottomline Technologies (de), Inc.",
         "summary": "Bottomline Technologies (de), Inc. provides various solutions for the banking, financial services, insurance, healthcare, technology, retail, communications, education, media, manufacturing, and government industries. It operates through four segments: Cloud Solutions, Banking Solutions, Payments and Documents, and Other. The company's products and services include Paymode-X, a SaaS solution, which allows businesses to transition from legacy invoice-to-pay processes maximizing cost-savings, efficiency, and security; and financial messaging solutions for risk management to banks and corporations. It also provides Digital Banking Intelligent Engagement platform that enables banks to engage with customers; legal spend management solutions and services, which integrate with claims management, and time and billing systems to automate legal invoice management processes, as well as provide insight into various areas of a company's outside legal spend. In addition, the company offers cyber fraud and risk management solutions to monitor, replay, and analyse user behaviour and payment transactions to flag and stop suspicious activity in real time; payment automation solutions that generate various domestic and international payment instructions along with consolidated bank reporting of cash activity; and healthcare solutions, including electronic signature and mobile document. Further, it provides consulting, implementation, and training services. The company serves customers in the United States, the United Kingdom, Continental Europe, the Asia-Pacific, and the Middle East. Bottomline Technologies (de), Inc. was founded in 1989 and is headquartered in Portsmouth, New Hampshire.",
         "currency": "USD",
@@ -294,6 +308,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "ETWO",
         "name": "E2open Parent Holdings, Inc.",
         "summary": "E2open Parent Holdings, Inc. provides end-to-end and cloud-based supply chain management SaaS platform worldwide. The company's software solutions orchestrate complex global supply chains and drive compelling value and ROI for its blue-chip customers. Its software combines networks, data, and applications to provide a platform that allows customers to optimize their supply chain across channel shaping, business planning, logistics, global trade, manufacturing, and supply management. The company serves high tech, consumer packaged goods, industrial manufacturing, pharmaceutical and biotech, automotive, aerospace and defense, oil and gas, logistics service providers, ocean carriers, trucking, retail, and telecom operator industries. E2open Parent Holdings, Inc. was founded in 2020 and is headquartered in Austin, Texas.",
         "currency": "USD",
@@ -315,6 +330,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "EVBG",
         "name": "Everbridge, Inc.",
         "summary": "Everbridge, Inc. operates as a software company in the United States and internationally. Its Critical Event Management, a software as a service based platform with various software applications that address tasks an organization has to perform to manage a critical event, including Mass Notification that enables enterprises and governmental entities to send notifications to individuals or groups to keep them informed before, during, and after natural or man-made disasters, and other emergencies; Safety Connection that enables organizations to send notifications based on last known location of an individual; Incident Management for organizations to automate workflows and make their communications relevant; and IT Alerting that enables IT professionals to alert and communicate during an IT incident or outage. Its software applications also include Visual Command Center that enables customers to monitor and integrate threat data, and information on internal incidents; Public Warning to reach international mobile populations; Community Engagement that integrates emergency management and community outreach; Risk Center solution that aggregates data to assess incidents and provide incident information and analysis; Crisis Management that provides mobile access to crisis, recovery, and brand protection plans; Secure Collaboration solution to exchange messages, voice, images, and video chats; and Control Center application used for mission-critical control. It also provides customer support services. It serves enterprises, small businesses, non-profit organizations, educational institutions, and government agencies in technology, energy, financial services, healthcare and life sciences, manufacturing, media and entertainment, retail, higher education, and professional services industries. The company was formerly known as 3n Global, Inc. and changed its name to Everbridge, Inc. in April 2009. The company was founded in 2002 and is headquartered in Burlington, Massachusetts.",
         "currency": "USD",
@@ -336,6 +352,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "EVOP",
         "name": "EVO Payments, Inc.",
         "summary": "EVO Payments, Inc. operates as an integrated merchant acquirer and payment processor in the Americas and Europe. Its payment and commerce solutions consist of gateway solutions, online fraud prevention and management reporting, online hosted payments page capabilities, cellphone-based SMS integrated payment collection services, security tokenization and encryption solutions at the point-of-sale, dynamic currency conversion, ACH, loyalty offers, and other ancillary solutions. The company also offers processing capabilities for specific industries and provides merchants with recurring billing, multi-currency authorization and settlement, and cross-border processing. In addition, it provides other services that enable through technical integrations with third-party providers. The company offers its services to approximately 550,000 merchants. EVO Payments, Inc. was founded in 1989 and is headquartered in Atlanta, Georgia.",
         "currency": "USD",
@@ -357,6 +374,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "FSLY",
         "name": "Fastly, Inc.",
         "summary": "Fastly, Inc. operates an edge cloud platform for processing, serving, and securing its customer's applications in the United States, the Asia Pacific, Europe, and internationally. The edge cloud is a category of Infrastructure as a Service that enables developers to build, secure, and deliver digital experiences at the edge of the internet. It is a programmable platform designed for web and application delivery. The company offers Compute@Edge; developer hub that includes solution library patterns and recipes, API and language references, change logs, and Fastly Fiddle solutions; device detection and geolocation, edge dictionaries, edge access control lists, and edge authentication services; full site delivery services, such as dynamic site acceleration, origin shield, instant purge, surrogate keys, real-time logging and stats, and cloud optimizer services; and streaming solutions and services, including live streaming, media shield, and origin connect. It also provides edge security solutions, such as DDoS protection, edge web application firewall (WAF), transport layer security (TLS), platform TLS, and compliance services; unified web application and API protection solutions that includes runtime self-application protection, advanced rate limiting, API protection, account takeover protection, bot management, and next generation WAF. In addition, the company offers edge applications, such as load balancers and image optimizers; video on demand; and managed edge delivery services. It serves customers operating in digital publishing, media and entertainment, technology, online retail, travel and hospitality, and financial technology services industries. The company was formerly known as SkyCache, Inc. and changed its name to Fastly, Inc. in May 2012. Fastly, Inc. was founded in 2011 and is headquartered in San Francisco, California.",
         "currency": "USD",
@@ -378,6 +396,7 @@
         "shareclass_figi": "BBG004NLQHM9"
     },
     {
+        "symbol": "GBOX",
         "name": "GreenBox POS",
         "summary": "GreenBox POS, a technology company, develops, markets, and sells blockchain-based payment solutions. The company's blockchain-based systems are designed to facilitate, record, and store a volume of tokenized assets, representing cash or data, on a blockchain-based ledger. GreenBox POS was incorporated in 2007 and is based in San Diego, California.",
         "currency": "USD",
@@ -399,6 +418,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "GSKY",
         "name": "GreenSky, Inc.",
         "summary": "GreenSky, Inc., a technology company, that enables promotional financing at the point of sale for merchants, consumers, and bank partners. It offers a proprietary technology infrastructure that supports the full transaction lifecycle, including credit application, underwriting, real-time allocation to bank partners, document distribution, funding, settlement, and servicing functions. The company was founded in 2006 and is headquartered in Atlanta, Georgia.",
         "currency": "USD",
@@ -420,6 +440,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "GTYH",
         "name": "GTY Technology Holdings Inc.",
         "summary": "GTY Technology Holdings Inc. operates as a software-as-a-service (SaaS) company that offers a cloud-based suite of solutions for the public sector in North America. The company develops software technologies for the procurement and vendor or supplier sourcing industry in government, public sector, and various highly-regulated commercial vertical markets; and content, digital services, and integrated payments via a SaaS platform for government agencies and utility companies. It also develops cloud-based grants management and cost allocation software for state, local, and tribal governments; builds software to streamline municipal permissions and licenses; offers budgeting software, performance management, and transparency and data visualization solutions; and provides public sector budgeting software and consulting services. GTY Technology Holdings Inc. was founded in 2016 and is headquartered in Las Vegas, Nevada.",
         "currency": "USD",
@@ -441,6 +462,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "HMBL",
         "name": "HUMBL, Inc.",
         "summary": "HUMBL, Inc., a digital money network, provides digital pairing experiences for consumers and merchants worldwide. The company offers HUMBLPAY that connects consumers and merchants in the digital economy to share and pay worldwide; and HUMBLMARKETPLACE that connect customers and merchants online in global commerce through merchant shops, deal listings, affiliate programs, and HUMBL Pay web checkout integrations. It also provides HUMBLFINANCIAL, a platform that provides digital asset investment services. The company was formerly known as Tesoro Enterprises, Inc. and changed its name to HUMBL, Inc. in February 2021. HUMBL, Inc. is based in San Diego, California.",
         "currency": "USD",
@@ -462,6 +484,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "IBEX",
         "name": "IBEX Limited",
         "summary": "IBEX Limited provides end-to-end technology-enabled customer lifecycle experience solutions in the United States and internationally. The company provides ibex Connect, a customer engagement solution comprises customer service, technical support, and other value-added outsourced back office services through voice, email, chat, SMS, social media and other communication applications; ibex Digital, a customer acquisition solution that offers search, social, and display advertising capabilities; and ibex CX, a customer experience solution, which provides a comprehensive suite of proprietary software tools to measure, monitor and manage its clients' customer experience. It also operates a range of multi-tenant and dedicated platforms; and offers ibex Wave X, CLX Test Kitchen, and The CLX Product Cloud, a flexible and modular toolset of integrated products. As of June 30, 2020, the company operated 25 customer engagement and three customer acquisition delivery centers. It serves telecommunications and cable, technology, retail, healthcare, financial services, and utilities markets. The company was founded in 2017 and is headquartered in Washington, District of Columbia. IBEX Limited operates as a subsidiary of Resource Group International Limited.",
         "currency": "USD",
@@ -483,6 +506,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "JAMF",
         "name": "Jamf Holding Corp.",
         "summary": "Jamf Holding Corp. offers a cloud software platform for Apple infrastructure and security platform worldwide. The company's Software-as-a-Service (SaaS) solutions provide a cloud-based platform for lifecycle enterprise IT management of Apple devices. Its products include Jamf Pro, an Apple ecosystem management software solution for IT environments; Jamf Now, a pay-as-you-go Apple device management software solution for small-to-medium-sized businesses; Jamf School, a purpose-built software solution for educators; Jamf Connect, a solution that gives users the ability to provision their new Apple devices by entering their cloud identity the first time the device is powered on; and Jamf Protect, which creates customized telemetry and detections. The company's customers comprise enterprises in a range of industries, including financial services, government, healthcare, legal, manufacturing, professional services, retail, technology, and telecommunications to connect, manage, and protect Apple products, apps, and corporate resources in the cloud. It also offers Jamf Nation, an online community of IT professionals focusing on Apple in the enterprise; and provides professional services. The company sells its SaaS solutions through a subscription model, a direct sales force, and online, as well as indirectly through its channel partners, including Apple. Jamf Holding Corp. was founded in 2002 and is headquartered in Minneapolis, Minnesota.",
         "currency": "USD",
@@ -504,6 +528,7 @@
         "shareclass_figi": "BBG00VSYYVC7"
     },
     {
+        "symbol": "KLDI",
         "name": "KLDiscovery Inc.",
         "summary": "KLDiscovery Inc. provides eDiscovery and data recovery services to corporations, law firms, government agencies, and individual consumers worldwide. The company offers eDiscovery solutions, including Nebula, an end-to-end information governance and eDiscovery platform, which helps to facilitate the identification, preservation, collection, processing, review, and exchange of electronically stored information (ESI); eDiscovery.com Review (EDR), a platform used to search, review and exchange ESI; and Relativity, a document review tool. It also provides KLD Analytics, which offers technology-assisted review tools for predictive coding, workflow, email threading, near-duplicate detection, and language identification; KLD Processing, a processing platform; managed review services, such as providing facilities, staffing, and expertise necessary to review large and complex data sets in various types of matters comprising litigation, investigations, and regulatory reviews; and digital forensics services. In addition, the company offers information archiving services, such as legal hold management; Office 365 migration and management; and Nebula Big Data Store, an enterprise-grade storage solution. Further, it provides data recovery services; email recovery services; tape services comprising backup infrastructure migration and consolidation, legacy tape and data remediation, and recovery from physically-damaged and quickly-erased or partially-overwritten tapes; and data destruction services, as well as mobile phone repair services. Additionally, the company provides data recovery software, such as Ontrack EasyRecovery and Ontrack PowerControls. KLDiscovery Inc. was founded in 1985 and is headquartered in McLean, Virginia.",
         "currency": "USD",
@@ -525,6 +550,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "MITK",
         "name": "Mitek Systems, Inc.",
         "summary": "Mitek Systems, Inc. develops, markets, and sells mobile image capture and digital identity verification solutions in the United States, Europe, Latin America, and internationally. The company's solutions are embedded in native mobile apps and browsers to facilitate online user experiences, fraud detection and reduction, and compliant transactions. It offers Mobile Deposit that enables individuals and businesses to remotely deposit checks using their camera-equipped smartphone or tablet; and Mobile Verify, an identity verification solution that is integrated into mobile apps, mobile websites, and desktop applications. The company also provides Mobile Fill, an application to prefill forms with user data by snapping a picture of the driver license or other similar identity documents; Mobile Docs, a mobile document scanning solution; and MiSnap, an image capture technology. In addition, it offers CheckReader that enables financial institutions to automatically extract data from checks; XE, a recurrent neural network engine; and ID_CLOUD, an automated identity verification solution that is integrated into a customers' application to read and validate identity documents. The company sells its solutions primarily to banks, credit unions, lenders, payments processers, card issuers, fintech companies, and others through direct sales teams and channel partners. Mitek Systems, Inc. was incorporated in 1986 and is based in San Diego, California.",
         "currency": "USD",
@@ -546,6 +572,7 @@
         "shareclass_figi": "BBG001S5T6P3"
     },
     {
+        "symbol": "MIXT",
         "name": "MiX Telematics Limited",
         "summary": "MiX Telematics Limited provides fleet and mobile asset management solutions through software-as-a-service (Saas) delivery model. The company offers fleet solutions, including MiX Fleet Manager Premium that provides access to secure information about drivers and vehicles; MiX Fleet Manager Essential for monitoring drivers and vehicles; and MiX Asset Manager used to track hardware products and other assets. It also provides consumer solutions, including Matrix that provides vehicle tracking, telematics, and personal safety services; and Beame, a wireless device, which offers vehicle recovery services. In addition, the company provides value added services comprising driver communication, collision prevention and reduction, satellite communication, track and react bureau, driver performance management, driving monitoring, field services management, driver engagement, fuel management and security solutions, and driver identification solutions, as well as voice kits and keypads, and in-vehicle cameras. It delivers fleet and mobile asset management solutions as SaaS to 818,487 subscribers in South Africa, the Americas, the Middle East, Australia, Europe, and Brazil. The company was founded in 1996 and is based in Boca Raton, Florida.",
         "currency": "USD",
@@ -567,6 +594,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "MODN",
         "name": "Model N, Inc.",
         "summary": "Model N, Inc. provides revenue management cloud solutions for the life sciences and high tech industries. The company offers Global Pricing Management, which minimizes price erosion of products; Global Tender Management that enhances revenue by enabling segmentation and targeting, optimal bid pricing, and post-award tracking; Provider Management, which minimizes rebate overpayments; Payer Management that minimizes revenue leakage and noncompliance of complex contracts; Government Pricing, which optimizes revenue, and reduces the risk of fines and other penalties; and Medicaid that enhances compliance with regulatory requirements and payments of rebate claims timely, as well as at correct rates for government medicaid programs. It also provides Deal Management, which increases deal conversion and pricing consistency; Deal Intelligence that controls price concessions and determines ideal prices; Channel Management, which provides manufacturers a view of inventory, as well as evaluate price protection and stock rotation, and matching available inventory to quotes; Market Development Fund Management that allows companies to streamline their MDF process and reduce revenue leakage; and Rebates Management, which centralizes control of rebate programs. In addition, the company offers Channel Data Management that automates the process of collection, cleansing, validation, and standardization of channel partner data, such as POS, inventory, and claims; and Configure Price Quote, which streamlines the quote to contract process by enabling the configuration of complex services, bundles, and solutions into a single interface; and Contract Lifecycle Management that enables users to create and manage contracts directly. Further, it provides implementation, managed, strategic, and customer support services. It primarily serves large and mid-sized organizations worldwide through its direct sales force. Model N, Inc. was founded in 1999 and is headquartered in San Mateo, California.",
         "currency": "USD",
@@ -588,6 +616,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "NTCT",
         "name": "NetScout Systems, Inc.",
         "summary": "NetScout Systems, Inc. provides service assurance, security, and business analytics for digital business services against disruptions in availability, performance, and security. The company offers nGeniusONE management software that enables customers to predict, preempt, and resolve network and service delivery problems, as well as facilitate the optimization and capacity planning of their network infrastructures; and specialized platforms and analytic modules that enable its customers to analyze and troubleshoot traffic in radio access and Wi-Fi networks. It also provides nGeniusPULSE, an active testing tool that enables enterprises to identify infrastructure performance issues and determine application availability, reliability, and performance; and nGenius Business Analytics solution, which enables service providers to analyze their network traffic. In addition, the company offers ISNG, an advanced passive network probe; packet flow systems that deliver targeted network traffic access to various monitoring and security tools and systems; and a suite of test access points that enable non-disruptive access to network traffic. Further, it provides security solutions that enable service providers and enterprises to protect their networks against distributed denial of service attacks under the Arbor brand; and threat detection solutions to identify and investigate potential advanced network threats. The company serves enterprise customers in industries, including financial services, technology, manufacturing, healthcare, utilities, education, transportation, and retail; mobile operators, wireline operators, cable operators, Internet service providers, and cloud providers; and governmental agencies through a direct sales force, and indirect reseller and distribution channels. It has operations in the United States, Asia, Europe, and internationally. The company was founded in 1984 and is headquartered in Westford, Massachusetts.",
         "currency": "USD",
@@ -609,6 +638,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "OLO",
         "name": "Olo Inc.",
         "summary": "Olo Inc. provides software-as-a-service platform for multi-location restaurants in the United States. The company's platform enables on-demand commerce operations, which cover digital ordering and delivery through online and mobile ordering modules. Its modules include Ordering, an on-demand commerce solution that enables consumers to order directly from and pay restaurants via mobile, web, kiosk, voice, and other digital channels; Dispatch, a fulfillment solution, which enables restaurants to offer, manage, and expand direct delivery; and Rails, an aggregator and channel management solution, which allows restaurants to control and syndicate menu, pricing, location data, and availability. The company was founded in 2005 and is headquartered in New York, New York.",
         "currency": "USD",
@@ -630,6 +660,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PAYA",
         "name": "Paya Holdings Inc.",
         "summary": "Paya Holdings Inc., through its subsidiaries, provides integrated payment and commerce solutions that help customers accept and make payments, expedite receipt of money, and increase operating efficiency. The company through two segments, Integrated Solutions and Payment Services. It processes payments through credit and debit card, ACH, and check payment processing solutions. It serves customers approximately through 2,000 distribution partners with focus on targeted verticals, such as healthcare, education, non-profit, government, utilities, and other B2B goods and services. The company also has offices in offices in Reston, Virginia, Fort Walton Beach, Florida, Dayton, Ohio, Mt. Vernon, Ohio, and Dallas, Texas. The company is headquartered in Atlanta, Georgia.",
         "currency": "USD",
@@ -651,6 +682,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PD",
         "name": "PagerDuty, Inc.",
         "summary": "PagerDuty, Inc. operates a digital operations management platform in the United States and internationally. Its platform harnesses digital signals from virtually any software-enabled system or device, combines it with human response data, and orchestrates teams to take the right actions in real time. The company's platform provides on-call management, event intelligence, incident response, business visibility, and advanced analytics solutions to address digital operations management requirements. It serves various industries, including software and technology, telecommunications, retail, travel and hospitality, media and entertainment, and financial services. PagerDuty, Inc. was founded in 2009 and is headquartered in San Francisco, California.",
         "currency": "USD",
@@ -672,6 +704,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PDFS",
         "name": "PDF Solutions, Inc.",
         "summary": "PDF Solutions, Inc. provides proprietary software and physical intellectual property products for integrated circuit designs, electrical measurement equipment, proven methodologies, and professional services in the United States, China, Taiwan, and internationally. It offers Exensio software products, such as Manufacturing Analytics that stores collected data in a common environment with a consistent view for enabling product engineers to identify and analyze production yield, performance, reliability, and other issues; Process Control that provides failure detection and classification capabilities for monitoring, alarming, and controlling manufacturing tool sets; Test Operations that offers data collection and analysis capabilities; and Assembly Operations that provides device manufacturers with the capability to link assembly and packaging data, including fabrication and characterization data over the product life cycle. The company also provides design-for-inspection (DFI) Systems, such as DFI on-chip instruments, and eProbe non-contactless E-beam tool; and Characterization Vehicle (CV) infrastructure, which includes CV test chips and pdFasTest electrical testers, as well as Exensio characterization software, designed to analyze the measurements collected from DFI on-chip instruments using the eProbe tool. In addition, it offers Cimetrix software products that enables equipment manufacturers to provide industry standard interfaces on their products; and Software-as-a-Service, software related services, and IYR services. The company sells its technologies and services through direct sales force, service teams, and strategic alliances to integrated device manufacturers, fabless semiconductor companies, foundries, equipment manufacturers, electronics manufacturing suppliers, original device manufacturers, out-sourced semiconductor assembly and test, and system houses. PDF Solutions, Inc. was founded in 1991 and is headquartered in Santa Clara, California.",
         "currency": "USD",
@@ -693,6 +726,7 @@
         "shareclass_figi": "BBG001SFSR85"
     },
     {
+        "symbol": "PING",
         "name": "Ping Identity Holding Corp.",
         "summary": "Ping Identity Holding Corp., doing business as Ping Identity Corporation, provides intelligent identity solutions for the enterprise in the United States and internationally. Its Ping Intelligent Identity platform provides customers, workforce, and partners with access to cloud, mobile, Software-as-a-Service, and on-premise applications. The company's platform offers solutions, such as secure single sign-on; multi-factor authentication; security control for applications and APIs, or access security; personalized and unified profile directories; data governance to control access to identity data; and artificial intelligence and machine learning powered API security. Its customers include enterprises in Fortune 100, U.S. banks, healthcare companies, aerospace companies, auto manufacturers, and North American retailers. The company was formerly known as Roaring Fork Holding, Inc. and changed its name to Ping Identity Holding Corp. in August 2019. Ping Identity Holding Corp. was incorporated in 2016 and is headquartered in Denver, Colorado.",
         "currency": "USD",
@@ -714,6 +748,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PLUS",
         "name": "ePlus inc.",
         "summary": "ePlus inc., through its subsidiaries, provides information technology solutions that enable organizations to optimize their information technology (IT) environment and supply chain processes in the United States. It operates in two segments, Technology and Financing. The Technology segment offers hardware, perpetual and subscription software, maintenance, software assurance, and internally-provided and outsourced services; and professional and managed services, including ePlus managed, professional, security, ePlus Cloud Consulting, staff augmentation, server and desktop support, and project management services. The Financing segment specializes in leasing and financing arrangements, such as sales-type and operating leases; loans and consumption-based financing arrangements; and underwriting and management of IT equipment and assets. Its financing operations comprise sales, pricing, credit, contracts, accounting, risk management, and asset management. This segment primarily finances IT, communication-related, and medical equipment; and industrial machinery and equipment, office furniture and general office equipment, transportation equipment, and other general business equipment directly, as well as through vendors. ePlus inc. serves commercial entities, state and local governments, government contractors, and educational institutions. The company was formerly known as MLC Holdings, Inc. and changed its name to ePlus inc. in 1999. ePlus inc. was founded in 1990 and is headquartered in Herndon, Virginia.",
         "currency": "USD",
@@ -735,6 +770,7 @@
         "shareclass_figi": "BBG001S99YL0"
     },
     {
+        "symbol": "PRCH",
         "name": "Porch Group Inc.",
         "summary": "Porch Group, Inc. operates a software platform in the United States and Canada. It provides software and services under the ISN, HireAHelper, and Kandela brands to home services companies, such as home inspectors, homebuyers and homeowners, insurance carriers, moving companies, security companies, and TV/internet providers, as well as offers moving concierge services. It also connects consumers with home services companies and offers a full range of products and services where homeowners compare and buy home insurance policies; arrange for various services in connection with their move, from labor to load or unload a truck to full-service, long-distance moving services; discover and install home automation and security systems; compare internet and television options for their home; book small handyman jobs at fixed, upfront prices; and compare bids from home improvement professionals who can complete bigger jobs. In addition, the company provides property and casualty, home, auto, flood, and umbrella insurance products; and contractor services. The company was founded in 2011 and is based in Seattle, Washington.",
         "currency": "USD",
@@ -756,6 +792,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PRO",
         "name": "PROS Holdings, Inc.",
         "summary": "PROS Holdings, Inc. provides solutions that optimize the processes of selling and shopping in the digital economy worldwide. The company offers PROS Smart CPQ, a tool for sales teams and partners to respond to customer quotes; and PROS Opportunity Detection that increases sales effectiveness and productivity by uncovering sales opportunities in existing accounts for sales teams. It also provides PROS Control, a platform for price management, coordination, and strategy; and PROS Guidance, which leverages AI-powered algorithms to provide market-relevant price guidance across sales channels. In addition, the company offers PROS Airline Revenue Management solution that delivers algorithmic forecasting and network optimization for the travel industry; PROS Airline Real-Time Dynamic Pricing, a solution that offers accurate booking class availability and seat prices; and PROS Airline Group Sales Optimizer, a group revenue optimization solution, which enables airlines and their travel agent partners to create and manage group bookings, contracts, and policies. Further, it provides PROS Airline Shopping for airlines' shopping, pricing, and repricing solutions; PROS Airline Merchandising, which sells ancillary services, including extra baggage, legroom, and other services; and PROS Airline Retail for airlines to optimize the user experience throughout the traveler journey. Additionally, the company offers software-related services, such as implementation, configuration, consulting, training, and maintenance and support services. It sells its software solutions to customers in various industries, including automotive and industrial manufacturing, transportation and logistics, chemicals and energy, food and beverage, healthcare, high tech, and travel. The company markets and sells its software solutions through its sales force, as well as through partners, resellers, and systems integrators. PROS Holdings, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.",
         "currency": "USD",
@@ -777,6 +814,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "PUBM",
         "name": "PubMatic, Inc.",
         "summary": "PubMatic, Inc. provides a cloud infrastructure platform that enables real-time programmatic advertising transactions for Internet content creators and advertisers worldwide. The company's solutions include PubMatic Cloud, which offers a customizable platform as a service; Openwrap, a header bidding solution that provides enterprise-grade management and analytics tools; Openwrap OTT, a header bidding management solution for OTT; Openwrap SDK, a header bidding solution for in-app developers; private marketplace solutions; and media buyer consoles. In addition, it offers Real-Time Bidding (RTB) programmatic technologies, which provides various selling options across screens and ad formats; digital advertising inventory quality solutions to detect and filter out invalid traffic and other nefarious activity; Ad quality solutions targeting the reduction of security issues, quality issues, and performance issues; Identity Hub, an identity solution that allows for the use of any advertiser preferred user identifier in a scaled and privacy-compliant fashion; Audience Encore, an audience data platform; and cross-platform video, a sell side platform, which connects trusted video buyers to premium publishers. The company's platform supports an array of ad formats and digital device types, including mobile app, mobile web, desktop, display, video, over-the-top (OTT), connected television, and media. PubMatic, Inc. was incorporated in 2006 and is headquartered in Redwood City, California.",
         "currency": "USD",
@@ -798,6 +836,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "QADA",
         "name": "QAD Inc.",
         "summary": "QAD Inc., together with its subsidiaries, provides cloud-based enterprise software solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company offers effective enterprise management software products, including financials, internationalization, cloud EDI, EDI eCommerce, and e-invoicing solutions; digital manufacturing software products, which include manufacturing, production execution, enterprise asset management, automation, and enterprise quality management system solutions; and complete customer management software products comprising customer and service management, customer self service, configurator, trade activity management, CRM, and field service management solutions. It also provides integrated supplier management software products that include supplier portal, precision global trade transportation execution, supplier management, and sourcing services; and connected supply chain software products that comprise supply chain and digital supply chain planning solutions. In addition, the company offers customer support and product update services, as well as professional services, including consulting, deployment, training, technical development, and integration. It markets its products through direct and indirect sales channels; and distributors and sales agents. The company serves automotive, life sciences, consumer products, food and beverage, high technology, and industrial products manufacturing companies. QAD Inc. was founded in 1979 and is headquartered in Santa Barbara, California.",
         "currency": "USD",
@@ -819,6 +858,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "QADB",
         "name": "QAD Inc.",
         "summary": "QAD Inc., together with its subsidiaries, provides cloud-based enterprise software solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company offers effective enterprise management software products, including financials, internationalization, cloud EDI, EDI eCommerce, and e-invoicing solutions; digital manufacturing software products, which include manufacturing, production execution, enterprise asset management, automation, and enterprise quality management system solutions; and complete customer management software products comprising customer and service management, customer self service, configurator, trade activity management, CRM, and field service management solutions. It also provides integrated supplier management software products that include supplier portal, precision global trade transportation execution, supplier management, and sourcing services; and connected supply chain software products that comprise supply chain and digital supply chain planning solutions. In addition, the company offers customer support and product update services, as well as professional services, including consulting, deployment, training, technical development, and integration. It markets its products through direct and indirect sales channels; and distributors and sales agents. The company serves automotive, life sciences, consumer products, food and beverage, high technology, and industrial products manufacturing companies. QAD Inc. was founded in 1979 and is headquartered in Santa Barbara, California.",
         "currency": "USD",
@@ -840,6 +880,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "RDVT",
         "name": "Red Violet, Inc.",
         "summary": "Red Violet, Inc., a software and services company, specializes in proprietary technologies and applying analytical capabilities to deliver identity intelligence in the United States. It offers idiCORE, an investigative solution used to address various organizational challenges, which include due diligence, risk mitigation, identity authentication, and legislative compliance; and FOREWARN, an app-based solution that provides instant knowledge before face-to-face engagement with a consumer, and help professionals to identify and mitigate risk. The company serves financial services, insurance, healthcare, retail, and telecommunication companies; law enforcement and government agencies; and collections, corporate security, and investigative law firms, as well as solutions used for purposes, such as identity verification, risk mitigation, due diligence, fraud detection, and compliance. It markets its products and services through value-added distributors, resellers, and strategic partners; and trade shows and seminars, advertising, public relations, distribution of sales literature, and product specifications and ongoing communication with prospective clients, distributors, resellers, strategic partners, and installed base of current clients, as well as through direct sales. Red Violet, Inc. was incorporated in 2017 and is headquartered in Boca Raton, Florida.",
         "currency": "USD",
@@ -861,6 +902,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "RMNIW",
         "name": "Rimini Street, Inc.",
         "summary": "Rimini Street, Inc. provides enterprise software products, services, and support for various industries. The company offers software support services for Oracle and SAP enterprise software products. It sells its solutions primarily through direct sales organizations in North America, Latin America, Europe, Africa, the Middle East, Asia, and the Asia-Pacific. Rimini Street, Inc. was founded in 2005 and is headquartered in Las Vegas, Nevada.",
         "currency": "USD",
@@ -882,6 +924,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "RPAY",
         "name": "Repay Holdings Corporation",
         "summary": "Repay Holdings Corporation provides integrated payment processing solutions to industry-oriented markets. Its payment processing solutions enable consumers and businesses to make payments using electronic payment methods. The company offers a range of solutions relating to electronic payment methods, including credit and debit processing, virtual credit card processing, automated clearing house (ACH) processing, enhanced ACH processing, and instant funding. It provides payment processing solutions to customers primarily operating in the personal loans, automotive loans, receivables management, and business-to-business verticals. The company sells its products through direct sales representatives and software integration partners. Repay Holdings Corporation was founded in 2006 and is headquartered in Atlanta, Georgia.",
         "currency": "USD",
@@ -903,6 +946,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "RWWI",
         "name": "Rand Worldwide, Inc.",
         "summary": "Rand Worldwide, Inc. provides design automation and data management solutions for the manufacturing, building design, engineering, infrastructure, and facilities management markets primarily in the United States and Canada. It operates in four divisions: IMAGINiT Technologies, Rand 3D, Enterprise Applications, and ASCENT \u221a\u00c7\u00ac\u00f1 Center for Technical Knowledge. The company resells packaged design software, including Autodesk 2D and 3D computer aided design software for customers in the mechanical, architectural, and civil engineering sectors, as well as visualization and animation technology to companies in the media and entertainment industry; Autodesk data management software; and Archibus facilities management software for space planning, strategic planning, and lease/property administration. It also resells 3DExperience design software products; Leica 3D laser scanning equipment for the architectural, engineering, and construction sector; and ASCENT, a courseware for various engineering applications. In addition, the company offers professional services, including project-focused software implementations, software customization, data migration, computer aided design standards consulting, supplemental design staffing, drawing digitization, symbol library development, computational fluid dynamics analysis consulting, and thermal simulation, as well as training, technical support, and other consulting and professional services. It serves private companies, public corporations, government agencies, and educational institutions. Rand Worldwide, Inc. is headquartered in Baltimore, Maryland.",
         "currency": "USD",
@@ -924,6 +968,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "RXT",
         "name": "Rackspace Technology, Inc.",
         "summary": "Rackspace Technology, Inc. operates as a multi cloud technology services company worldwide. It operates through Multicloud Services and Apps & Cross Platform segments. The company's Multicloud Services segment provides public and private cloud managed services, which allow customers to determine, manage, and optimize the right infrastructure, platforms, and services; and professional services related to designing and building multi cloud solutions and cloud-native applications. Its Apps & Cross Platform segment includes managed applications; managed security services in the areas of security threat assessment and prevention, threat detection and response, rapid remediation, governance, and risk and compliance assistance across multiple cloud platforms, as well as privacy and data protection services, including detailed access restrictions and reporting and data services; and professional services related to designing and implementing application, security, and data services. The company serves financial, government, healthcare, manufacturing, non-profit, education, consumer goods, oil and gas, media and entertainment, automotive and transportation, food and beverage, travel and hospitality, retail, and public sectors, as well as SaaS and ISV clients. Rackspace Technology, Inc. was founded in 1998 and is headquartered in San Antonio, Texas.",
         "currency": "USD",
@@ -945,6 +990,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "SBSAA",
         "name": "Stem, Inc.",
         "summary": "Stem, Inc. provides artificial intelligence (AI)-driven clean energy storage services. It delivers and operates smart battery storage solutions that maximize renewable energy generation and help build a resilient grid. The company's Athena, a AI-powered analytics platform software that uses artificial intelligence and machine learning to automatically switch between battery power, onsite generation, and grid power. Athena stabilizes the grid, reduces carbon emissions, and solves renewable intermittency across the network of distributed energy storage systems. The company serves customers, including Fortune 500 corporate energy users, project developers and installers, and utilities and independent power producers. Stem, Inc. was founded in 2009 and is headquartered in Millbrae, California.",
         "currency": "USD",
@@ -966,6 +1012,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "SCWX",
         "name": "SecureWorks Corp.",
         "summary": "SecureWorks Corp., through its subsidiaries, provides technology-driven information security solutions for protecting its customers in the United States and internationally. The company's solutions include software-as-a-service solutions, managed security services, and professional services, including incident response and security risk consulting services. Its solutions enable organizations to prevent security breaches, detect malicious activity, respond rapidly to security breaches, and identify emerging threats. The company sells its solutions primarily through its direct sales organization, as well as through referral agents, regional value-added resellers, and trade associations. It serves customers in a range of industries, including financial services, manufacturing, technology, retail, insurance, utility, and healthcare sectors. The company was formerly known as SecureWorks Holding Corporation and changed its name to SecureWorks Corp. in November 2015. SecureWorks Corp. was founded in 1999 and is headquartered in Atlanta, Georgia. SecureWorks Corp. is a subsidiary of Dell Inc.",
         "currency": "USD",
@@ -987,6 +1034,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "SEMR",
         "name": "SEMrush Holdings, Inc.",
         "summary": "SEMrush Holdings, Inc. develops online visibility management software as a service (SaaS) platform. It helps businesses to run search engine optimization, pay-per-click, content, social media, and competitive research campaigns. The company offers insights and solutions to build, manage, and measure campaigns across various marketing channels. SEMrush Holdings, Inc. was founded in 2008 and is based in Boston, Massachusetts with additional offices in Pennsylvania, Texas, Czech Republic, Cyprus, Poland, and Russia.",
         "currency": "USD",
@@ -1008,6 +1056,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "SPT",
         "name": "Sprout Social, Inc.",
         "summary": "Sprout Social, Inc. designs, develops, and operates a web-based social media management tool in Americas, EMEA, and the Asia Pacific. The company offers cloud software that brings together social messaging, data, and workflows in a unified system of record, intelligence, and action. It provides various integrated tools in a range of functions comprising social engagement/response, publishing, reporting and analytics, social listening and business intelligence, reputation management, employee advocacy, and automation and workflows. The company's tools serves a range of use-cases within its customers' organizations, including social and community management, public relations, marketing, customer service, sales and customer acquisition, recruiting and hiring, product development, and business strategy. It also offers professional services, which primarily consist of consulting and training services. The company serves approximately 26,000 customers across small-and-medium-sized businesses, mid-market companies, enterprises, and marketing agencies, as well as government, non-profit, and educational institutions. Sprout Social, Inc. was incorporated in 2010 and is headquartered in Chicago, Illinois.",
         "currency": "USD",
@@ -1029,6 +1078,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "SUMO",
         "name": "Sumo Logic, Inc.",
         "summary": "Sumo Logic, Inc. provides cloud-native software-as-a-service platform that enables organizations to address the challenges and opportunities presented by digital transformation, modern applications, and cloud computing worldwide. Its platform enables organizations to automate the collection, ingestion, and analysis of application, infrastructure, security, and IoT data to derive actionable insights. The company offers a suite of solutions to address areas, such as operational intelligence, security intelligence, business intelligence, and global intelligence. Sumo Logic, Inc. was incorporated in 2010 and is headquartered in Redwood City, California.",
         "currency": "USD",
@@ -1050,6 +1100,7 @@
         "shareclass_figi": "BBG002GKBNZ2"
     },
     {
+        "symbol": "TOGL",
         "name": "Toga Limited",
         "summary": "Toga Limited develops social media app for mobile devices. It offers Yippi, a messaging app that focuses on entertainment and security, which allows users to send various messages, photos, and voice messages, as well as broadcasts to up to 100 contacts at a time. The company was formerly known as Blink Couture, Inc. and changed its name to Toga Limited in December 2016. Toga Limited was founded in 2003 and is headquartered in Irvine, California.",
         "currency": "USD",
@@ -1071,6 +1122,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "VRNT",
         "name": "Verint Systems Inc.",
         "summary": "Verint Systems Inc. provides customer engagement solutions worldwide. It offers various applications for use in Forecasting and Scheduling, which understands the work needed to meet and exceed customer expectations; Quality and Compliance that uses automation and analytics for customer interactions for attended and self-service channels; Interaction Insights, which extracts insights from structured and unstructured customer interactions and activities; Real-Time Work that supports in-the-moment workforce activities; Self-Service, which connects customers and employees with information, resources, and support; Case Management that helps employees to improve efficiency, time to resolution, compliance, and customer satisfaction; and Knowledge Management, which help agents to deliver stellar service with tools. The company also provides Digital Experience that monitors customer-initiated feedback via web and mobile channels; Enterprise Experience, which captures experience data across various channels and unify feedback; Interaction Experience that uses voice surveys and contact center interaction to understand and improve the effectiveness of people, products, and processes; and Predictive Experience, which listens and acts on customer and employee experiences. In addition, it offers engagement data management applications for data management, enrichment, and compliance solutions, as well as cloud platform services. The company was incorporated in 1994 and is headquartered in Melville, New York.",
         "currency": "USD",
@@ -1092,6 +1144,7 @@
         "shareclass_figi": "BBG001S6V8N6"
     },
     {
+        "symbol": "VUZI",
         "name": "Zix Corporation",
         "summary": "Zix Corporation provides solutions for email encryption, data loss prevention, threat protection, unified archiving, and cloud data backup in the United States, Israel, Canada, the United Kingdom, and Switzerland. The company offers Advanced Email Threat Protection, a cloud-based service that defends organizations from zero-day malware, ransomware, phishing, CEO fraud, W-2 phishing attacks, spams, and viruses in email; and Information Archive, a cloud-based email retention solution that enables user retrieval, compliance, and e-discovery. It also provides Email Encryption Service that allows a user to send encrypted email to any email user anywhere and on any Internet-enabled device; cloud-based cybersecurity solutions for small and medium businesses; information rights management, e-signatures, and secure file sharing solutions; and software-as-a-service cloud backup and recovery solutions. The company serves the healthcare, financial services, and insurance industries, as well as government sectors. Zix Corporation sells its services through a direct sales force and tele sales force; and a network of resellers and other distribution partners, including other managed service providers. The company was formerly known as ZixIt Corporation and changed its name to Zix Corporation in 2002. Zix Corporation was incorporated in 1988 and is headquartered in Dallas, Texas.",
         "currency": "USD",
@@ -1113,6 +1166,7 @@
         "shareclass_figi": "BBG001T6DHT9"
     },
     {
+        "symbol": "YEXT",
         "name": "Yext, Inc.",
         "summary": "Yext, Inc. organizes business facts to provide answers to consumer questions in North America and internationally. It operates Yext platform, a cloud-based platform that allows its customers to provide answers to consumer questions, to control the facts about their businesses and the content of their landing pages, and to manage their consumer reviews through its Knowledge Network of approximately 200 maps, apps, search engines, intelligent GPS systems, digital assistants, vertical directories and social networks. The platform helps its customers to centralize, control and manage data fields, including store information, such as name, address, phone number and holiday hours; professional information, comprising of headshot, specialties, and education; job information, consisting of title and description; and FAQs and other informations. It serves the healthcare, retail, and financial services industries. The company was incorporated in 2006 and is headquartered in New York, New York.",
         "currency": "USD",
@@ -1134,6 +1188,7 @@
         "shareclass_figi": "BBG001V12329"
     },
     {
+        "symbol": "ZIXI",
         "name": "Zix Corporation",
         "summary": "Zix Corporation provides solutions for email encryption, data loss prevention, threat protection, unified archiving, and cloud data backup in the United States, Israel, Canada, the United Kingdom, and Switzerland. The company offers Advanced Email Threat Protection, a cloud-based service that defends organizations from zero-day malware, ransomware, phishing, CEO fraud, W-2 phishing attacks, spams, and viruses in email; and Information Archive, a cloud-based email retention solution that enables user retrieval, compliance, and e-discovery. It also provides Email Encryption Service that allows a user to send encrypted email to any email user anywhere and on any Internet-enabled device; cloud-based cybersecurity solutions for small and medium businesses; information rights management, e-signatures, and secure file sharing solutions; and software-as-a-service cloud backup and recovery solutions. The company serves the healthcare, financial services, and insurance industries, as well as government sectors. Zix Corporation sells its services through a direct sales force and tele sales force; and a network of resellers and other distribution partners, including other managed service providers. The company was formerly known as ZixIt Corporation and changed its name to Zix Corporation in 2002. Zix Corporation was incorporated in 1988 and is headquartered in Dallas, Texas.",
         "currency": "USD",
@@ -1155,6 +1210,7 @@
         "shareclass_figi": null
     },
     {
+        "symbol": "ZUO",
         "name": "Zuora, Inc.",
         "summary": "Zuora, Inc., together with its subsidiaries, provides cloud-based software on a subscription basis that enables companies in various industries to launch, manage, and transform into a subscription business. The company offers Zuora Central platform that acts as an intelligent subscription management hub that allows customers to order-to-revenue operations. Its products include Zuora Billing for subscription billing; Zuora Revenue, a revenue recognition automation solution; Zuora CPQ for configuring deals, pricing, and quoting in a subscription business; Zuora Collect designed to handle the complicated function of collections associated with subscription-based businesses; and Zuora Marketplace. It sells its products through its direct sales force, global systems integrators, management consulting firms, resellers, technology, and ecosystem partners. Zuora, Inc. was incorporated in 2006 and is headquartered in Redwood City, California.",
         "currency": "USD",

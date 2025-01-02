@@ -20,6 +20,7 @@ from tools import (
     get_companies,
     get_number_of_companies,
     get_names_and_summaries,
+    save_response_json,
 )
 
 LLM_CONFIG = OAI_CONFIG
@@ -100,6 +101,14 @@ register_function(
     executor=executor,
     name="get_names_and_summaries",
     description="Get the names and summaries of companies from the JSON file.",
+)
+
+register_function(
+    save_response_json,
+    caller=critic,  # Add multiple callers here
+    executor=executor,
+    name="save_response_json",
+    description="Save the given JSON string to a file.",
 )
 
 

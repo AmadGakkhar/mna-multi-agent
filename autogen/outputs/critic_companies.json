@@ -1,0 +1,19 @@
+{
+    "companies": [
+        {
+            "symbol": "CRNC",
+            "name": "Cerence Inc.",
+            "summary": "Cerence Inc. provides AI-powered assistants and innovations for connected and autonomous vehicles. It offers edge software components, cloud-connected components, toolkits, applications, and virtual assistant coexistence and professional services. The company's focus on AI-powered solutions and innovations in the automotive industry aligns with the client's goal of enhancing AI capabilities."
+        },
+        {
+            "symbol": "DSP",
+            "name": "Viant Technology Inc.",
+            "summary": "Viant Technology Inc. operates as an advertising software company, providing Adelphic, an enterprise software platform for marketers and advertising agencies to plan, buy, and measure advertising across channels. The company's emphasis on advertising technology and analytics can support the client's objective of expanding the portfolio of AI-powered products and services."
+        },
+        {
+            "symbol": "MITK",
+            "name": "Mitek Systems, Inc.",
+            "summary": "Mitek Systems, Inc. develops mobile image capture and digital identity verification solutions. The company's solutions are embedded in native mobile apps and browsers to facilitate online user experiences, fraud detection, and compliant transactions. Mitek's focus on digital identity verification aligns with the client's goal of gaining access to talented AI engineers and researchers."
+        }
+    ]
+}

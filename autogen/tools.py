@@ -7,6 +7,23 @@ import pandas as pd
 from configs import COMPANIES_JSON_PATH
 
 
+def save_response_json(
+    response_json: Annotated[str, "JSON String to save"],
+    path: Annotated[str, "Path to save"],
+) -> None:
+    """
+    Save the given JSON string to a file.
+
+    Parameters:
+    response_json (str): The JSON string to be saved.
+    path (str): The path to the file where the JSON string will be saved.
+    """
+    data = json.loads(response_json)
+    with open(path, "w") as file:
+        json.dump(data, file, indent=4)
+    print(f"JSON response saved to {path}")
+
+
 def save_to_markdown(
     content: str,
     file_path: Annotated[str, "Path to save markdown file"] = "output.md",
@@ -143,17 +160,18 @@ def get_companies(
     filtered_companies = filtered_companies.dropna(subset=["summary"])
 
     # Save the filtered DataFrame to a CSV file
-    # filtered_companies.to_csv("companies.csv", index=False)
+    filtered_companies.to_csv("companies.csv", index=True)
 
     # Convert the filtered DataFrame to JSON and save to a file
     with open(path, "w") as file:
         json.dump(
-            json.loads(filtered_companies.to_json(orient="records")), file, indent=4
+            json.loads(filtered_companies.reset_index().to_json(orient="records")),
+            file,
+            indent=4,
         )
-    global nested_chat_finished
-    nested_chat_finished = True
 
-    return ("Done", nested_chat_finished)
+    return "Done"
+    # return filtered_companies
 
 
 def get_number_of_companies(path: Annotated[str, "Path to JSON file"]) -> int:
@@ -172,22 +190,22 @@ def get_number_of_companies(path: Annotated[str, "Path to JSON file"]) -> int:
 
 def get_names_and_summaries(path: Annotated[str, "Path to JSON file"]) -> str:
     """
-    Get the names and summaries of companies from the JSON file.
+    Get the symbols, names and summaries of companies from the JSON file.
 
     Parameters:
     path (str): The path to the JSON file.
 
     Returns:
-    str: A JSON string containing the names and summaries of companies.
+    str: A JSON string containing the symbols, names and summaries of companies.
     """
     companies = read_json_from_disk(path)
-    df = pd.DataFrame(companies, columns=["name", "summary"])
+    df = pd.DataFrame(companies, columns=["symbol", "name", "summary"])
     df = df.reset_index(drop=True)
-    global nested_chat_finished
-    nested_chat_finished = True
     return df.to_json(orient="records", indent=4)
 
 
 if __name__ == "__main__":
-    companies = get_names_and_summaries(COMPANIES_JSON_PATH)
-    print(companies)
+    result = get_names_and_summaries(
+        "/home/amadgakkhar/code/mna-multi-agent/autogen/companies.json"
+    )
+    print(result)
