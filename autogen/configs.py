@@ -45,3 +45,4 @@ GEMINI_CONFIG = {
 STRATEGY_REPORT_PATH = Path("output.md")
 COMPANIES_JSON_PATH = Path("outputs/companies.json")
 CRITIC_COMPANIES_JSON_PATH = Path("outputs/critic_companies.json")
+DATA_COLLECTION_PATH = Path("outputs/fmp_data")

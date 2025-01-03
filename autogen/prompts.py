@@ -2,6 +2,7 @@ from configs import (
     STRATEGY_REPORT_PATH,
     COMPANIES_JSON_PATH,
     CRITIC_COMPANIES_JSON_PATH,
+    DATA_COLLECTION_PATH,
 )
 
 project_manager_prompt = """
@@ -326,3 +327,21 @@ Reply "TERMINATE" to stop the chat.
 """
 # Provide detailed report on how well the companies found are aligned with strategy report.
 # List the companies that are strongly aligned with client requirements. For each company, explain why.
+
+collector_prompt = f"""
+You are an excellent data collection agent.
+You have access to the following tools.
+
+def read_json_from_disk(file_path: Annotated[str, "Path to JSON file"]) -> dict:
+collect_and_save_fmp_data(
+    symbol: Annotated[str, "Symbol for which data needs to be collected"],
+    path: Annotated[str, "Path to save collected data"],
+) -> str:
+
+You will first get the names, symbols and summaries of companies from the JSON file at {CRITIC_COMPANIES_JSON_PATH}.    
+Once you have the data from Json file, you will use the function collect_and_save_fmp_data to collect and save financial data from FMP for all the symbols in the JSON File.
+Save the collected data in the to {DATA_COLLECTION_PATH}.
+
+Reply with TERMINATE when you are done.
+
+"""

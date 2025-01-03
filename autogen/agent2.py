@@ -3,13 +3,6 @@ from autogen import ConversableAgent, register_function
 import os
 from configs import OAI_CONFIG, GEMINI_CONFIG
 from prompts import (
-    project_manager_prompt,
-    motivational_coach_prompt,
-    strategy_prompt,
-    dummy_client_prompt,
-    strategy_prompt_1,
-    strategy_prompt_3,
-    strategy_prompt_2,
     researcher_prompt_fd,
     critic_prompt,
 )

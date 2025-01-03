@@ -1,9 +1,12 @@
+import os
 import json
 import financedatabase as fd
 import financetoolkit as ftk
 import numpy as np
 from typing_extensions import Annotated
 import pandas as pd
+import requests
+from pathlib import Path
 from configs import COMPANIES_JSON_PATH
 
 
@@ -204,8 +207,50 @@ def get_names_and_summaries(path: Annotated[str, "Path to JSON file"]) -> str:
     return df.to_json(orient="records", indent=4)
 
 
+def collect_and_save_fmp_data(
+    symbol: Annotated[str, "Symbol for which data needs to be collected"],
+    path: Annotated[str, "Path to save collected data"],
+) -> str:
+    """Collect FMP data and save it, returning only a status message"""
+    api_key = os.getenv("FMP_API_KEY")
+    if not api_key:
+        return (
+            "FMP API key not found. Please set the 'FMP_API_KEY' environment variable."
+        )
+    base_url = "https://financialmodelingprep.com/api/v3"
+
+    endpoints = {
+        "financials": f"/financials/income-statement/{symbol}",
+        "balance_sheet": f"/financials/balance-sheet-statement/{symbol}",
+        "cash_flow": f"/financials/cash-flow-statement/{symbol}",
+        "ratios": f"/key-ratios/{symbol}",
+        "quote": f"/quote/{symbol}",
+        "sector_performance": "/sector-performance",
+        "macro_data": "/economic-indicator",
+    }
+
+    data = {}
+    try:
+        for key, endpoint in endpoints.items():
+            url = f"{base_url}{endpoint}?apikey={api_key}"
+            response = requests.get(url)
+            response.raise_for_status()
+            data[key] = response.json()
+
+        base_path = str(Path(path))
+        os.makedirs(base_path, exist_ok=True)
+        filepath = Path(base_path) / f"{symbol}_fmp.json"
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+
+        return f"Successfully collected and saved FMP data for {symbol}"
+    except Exception as e:
+        return f"Error processing {symbol}: {str(e)}"
+
+
 if __name__ == "__main__":
-    result = get_names_and_summaries(
-        "/home/amadgakkhar/code/mna-multi-agent/autogen/companies.json"
+    result = read_json_from_disk(
+        "/home/amadgakkhar/code/mna-multi-agent/autogen/outputs/critic_companies.json"
     )
     print(result)

@@ -3,17 +3,17 @@
         {
             "symbol": "CRNC",
             "name": "Cerence Inc.",
-            "summary": "Cerence Inc. provides AI-powered assistants and innovations for connected and autonomous vehicles. It offers edge software components, cloud-connected components, toolkits, applications, and virtual assistant coexistence and professional services. The company's focus on AI-powered solutions and innovations in the automotive industry aligns with the client's goal of enhancing AI capabilities."
+            "summary": "Cerence Inc. provides AI-powered assistants and innovations for connected and autonomous vehicles It offers edge software components; cloud-connected components; toolkits; applications; and virtual assistant coexistence and professional services. The company also provides conversational artificial intelligence, including voice recognition, natural language understanding, and artificial intelligence services. Cerence Inc. is headquartered in Burlington, Massachusetts."
         },
         {
-            "symbol": "DSP",
-            "name": "Viant Technology Inc.",
-            "summary": "Viant Technology Inc. operates as an advertising software company, providing Adelphic, an enterprise software platform for marketers and advertising agencies to plan, buy, and measure advertising across channels. The company's emphasis on advertising technology and analytics can support the client's objective of expanding the portfolio of AI-powered products and services."
+            "symbol": "SPT",
+            "name": "Sprout Social, Inc.",
+            "summary": "Sprout Social, Inc. designs, develops, and operates a web-based social media management tool in Americas, EMEA, and the Asia Pacific. The company offers cloud software that brings together social messaging, data, and workflows in a unified system of record, intelligence, and action. It provides various integrated tools in a range of functions comprising social engagement/response, publishing, reporting and analytics, social listening and business intelligence, reputation management, employee advocacy, and automation and workflows. The company's tools serves a range of use-cases within its customers' organizations, including social and community management, public relations, marketing, customer service, sales and customer acquisition, recruiting and hiring, product development, and business strategy. It also offers professional services, which primarily consist of consulting and training services. The company serves approximately 26,000 customers across small-and-medium-sized businesses, mid-market companies, enterprises, and marketing agencies, as well as government, non-profit, and educational institutions. Sprout Social, Inc. was incorporated in 2010 and is headquartered in Chicago, Illinois."
         },
         {
-            "symbol": "MITK",
-            "name": "Mitek Systems, Inc.",
-            "summary": "Mitek Systems, Inc. develops mobile image capture and digital identity verification solutions. The company's solutions are embedded in native mobile apps and browsers to facilitate online user experiences, fraud detection, and compliant transactions. Mitek's focus on digital identity verification aligns with the client's goal of gaining access to talented AI engineers and researchers."
+            "symbol": "SUMO",
+            "name": "Sumo Logic, Inc.",
+            "summary": "Sumo Logic, Inc. provides cloud-native software-as-a-service platform that enables organizations to address the challenges and opportunities presented by digital transformation, modern applications, and cloud computing worldwide. Its platform enables organizations to automate the collection, ingestion, and analysis of application, infrastructure, security, and IoT data to derive actionable insights. The company offers a suite of solutions to address areas, such as operational intelligence, security intelligence, business intelligence, and global intelligence. Sumo Logic, Inc. was incorporated in 2010 and is headquartered in Redwood City, California."
         }
     ]
 }
