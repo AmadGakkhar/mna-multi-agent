@@ -78,6 +78,7 @@ These questions shuld be asked from the client one by one in a conversational ma
 Once you have all the information, you are to prepare a detailed strategy for the acquisition.
 
 """
+### AGENT 1 Prompt
 
 strategy_prompt_2 = """
 
@@ -339,10 +340,11 @@ collect_and_save_fmp_data(
 ) -> str:
 
 You will first get the names, symbols and summaries of companies from the JSON file at {CRITIC_COMPANIES_JSON_PATH}.    
-Once you have the data from Json file, you will use the function collect_and_save_fmp_data to collect and save financial data from FMP for all the symbols in the JSON File.
+Once you have the data from Json file, you will use the function collect_and_save_fmp_data to collect and save financial data from FMP ONLY for the symbols in the JSON File.
 Save the collected data in the to {DATA_COLLECTION_PATH}.
 
-Reply with TERMINATE when you are done.
+
+Reply with TERMINATE when you have saved the data for all the companies in the JSON {CRITIC_COMPANIES_JSON_PATH} File.
 
 """
 
