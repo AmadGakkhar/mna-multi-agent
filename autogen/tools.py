@@ -8,6 +8,7 @@ import pandas as pd
 import requests
 from pathlib import Path
 from configs import COMPANIES_JSON_PATH
+from tavily import TavilyClient
 
 
 def save_response_json(
@@ -249,8 +250,22 @@ def collect_and_save_fmp_data(
         return f"Error processing {symbol}: {str(e)}"
 
 
+def tavily_search(query: Annotated[str, "Query to search for"]) -> str:
+    """
+    Search for a company using Tavily API.
+
+    Parameters:
+    query (str): The query to search for.
+
+    Returns:
+    str: A JSON string containing the search results.
+    """
+    client = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
+    search_results = client.qna_search(query)
+    print(search_results)
+
+
 if __name__ == "__main__":
-    result = read_json_from_disk(
-        "/home/amadgakkhar/code/mna-multi-agent/autogen/outputs/critic_companies.json"
-    )
-    print(result)
+    query = input("Enter a query to search for: ")
+    tavily_search(query=query)
+    # Find all the publicaly listed companies working in Electronics manufacturing
